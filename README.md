@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJastRedPanda&query=%24.followers&label=Followers&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda?tab=followers) [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJastRedPanda&query=%24.public_repos&label=Repos&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda?tab=repositories) [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJastRedPanda&query=%24.following&label=Following&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda?tab=following)
+[![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions.vercel.app%2Fapi%2Fv1%2FJastRedPanda&query=years%5B0%5D.total&label=Contributions&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda) [![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AJastRedPanda%26per_page%3D1&query=total_count&label=Commits&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda)
 
 ## 📬 Contact
 
@@ -51,7 +51,7 @@ Coming soon...
 
 ## 📊 GitHub Статистика
 
-[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJastRedPanda&query=%24.followers&label=Followers&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda?tab=followers) [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJastRedPanda&query=%24.public_repos&label=Repos&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda?tab=repositories) [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJastRedPanda&query=%24.following&label=Following&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda?tab=following)
+[![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions.vercel.app%2Fapi%2Fv1%2FJastRedPanda&query=years%5B0%5D.total&label=Contributions&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda) [![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AJastRedPanda%26per_page%3D1&query=total_count&label=Commits&color=6a737d&style=flat-square&logo=github)](https://github.com/JastRedPanda)
 
 ## 📬 Контакти
 
